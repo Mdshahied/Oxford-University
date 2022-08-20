@@ -39,7 +39,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: #f44336;
+    background: #5a55e9dc;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -76,8 +76,8 @@ nav img{
     cursor: pointer;
 }
 .hero-btn:hover{
-    border: 1px solid #f44336;
-    background: #f44336;
+    border: 1px solid #ed251673;
+    background: #ee1f109a;
     transition: 1s;
 }
 
@@ -94,7 +94,7 @@ nav .fa{
     }
     .nav-links{
         position: fixed;
-        background: #f44336;
+        background: #140d0d9b;
         height: 100vh;
         width: 200px;
         top: 0;
